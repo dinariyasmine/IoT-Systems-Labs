@@ -439,24 +439,6 @@ graph TD
 | **WiFi Communication** | 802.11n, 2.4GHz | Up to 150Mbps | 200mA peak |
 | **I2C Protocol** | Multi-master bus | 400kHz max | 5mA typical |
 
-## Assessment Framework
-
-```mermaid
-pie title Grade Distribution
-    "Laboratory Reports" : 40
-    "Practical Implementation" : 30
-    "Final Project" : 20
-    "Class Participation" : 10
-```
-
-### Evaluation Criteria
-
-| **Assessment Component** | **Weight** | **Evaluation Method** | **Key Focus Areas** |
-|:---:|:---:|:---:|:---:|
-| **Technical Reports** | 40% | Comprehensive Documentation | Theory, Analysis, Results |
-| **Practical Implementation** | 30% | Hands-on Lab Performance | Coding, Hardware, Debugging |
-| **Final Project** | 20% | Complete System Design | Integration, Innovation, Presentation |
-| **Active Participation** | 10% | Lab Engagement | Problem-solving, Collaboration |
 
 ## Getting Started
 
