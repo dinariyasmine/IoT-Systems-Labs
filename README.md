@@ -118,7 +118,7 @@ flowchart TD
 
 ## Laboratory Progression
 
-### 🔧 Foundation Labs (1-4)
+### Foundation Labs (1-4)
 **Building Core Competencies**
 
 ```mermaid
@@ -165,7 +165,7 @@ sequenceDiagram
 - Arduino vs Raspberry Pi GPIO comparison
 - Platform-specific optimization techniques
 
-### 🌐 Communication Labs (7-8)
+### Communication Labs (7-8)
 **Protocol Implementation & Cloud Integration**
 
 ```mermaid
@@ -214,7 +214,7 @@ graph LR
 - Standalone Flask web server deployment on Raspberry Pi
 - Security and scalability considerations for IoT deployments
 
-### 🏭 Advanced Labs (10)
+### Advanced Labs (10)
 **Industrial IoT & Visualization**
 
 ```mermaid
@@ -259,7 +259,7 @@ graph TB
 - OpenHAB home automation platform integration
 - Publish/subscribe messaging patterns for industrial applications
 
-### 📡 Specialized Work
+### Specialized Work
 **Wireless Networks & Protocol Simulation**
 
 #### Homework: ZigBee & I2C Simulation
@@ -344,8 +344,8 @@ mosquitto>=2.0.0        # MQTT broker
 
 ```
 LABS-ICS/
-├── 📄 README.md
-├── 🔧 Foundation_Labs/
+├── README.md
+├── Foundation_Labs/
 │   ├── LAB01_Arduino_Basics/
 │   │   ├── Lab01_Instructions.pdf
 │   │   ├── Lab01_Report.pdf
@@ -395,7 +395,7 @@ LABS-ICS/
 │       ├── mosquitto_setup.sh
 │       ├── mosquitto_test.sh
 │       └── node_red_setup.sh
-└── 📡 Specialized_Work/
+└── Specialized_Work/
     └── HOMEWORK_ZigBee_I2C/
         ├── Homework_Instructions.pdf
         ├── Homework_Report.pdf
@@ -526,36 +526,36 @@ sequenceDiagram
 ## Resources & References
 
 ### Official Documentation
-- 📖 [Arduino MKR WiFi 1010 Official Guide](https://docs.arduino.cc/hardware/mkr-wifi-1010)
-- 📖 [Raspberry Pi Foundation Resources](https://www.raspberrypi.org/documentation/)
-- 📖 [Node-RED User Documentation](https://nodered.org/docs/)
-- 📖 [MQTT Protocol Specification](https://mqtt.org/mqtt-specification/)
+- [Arduino MKR WiFi 1010 Official Guide](https://docs.arduino.cc/hardware/mkr-wifi-1010)
+- [Raspberry Pi Foundation Resources](https://www.raspberrypi.org/documentation/)
+- [Node-RED User Documentation](https://nodered.org/docs/)
+- [MQTT Protocol Specification](https://mqtt.org/mqtt-specification/)
 
 
 ### Community Support
-- 💬 [Arduino Community Forum](https://forum.arduino.cc/)
-- 💬 [Raspberry Pi Foundation Forum](https://www.raspberrypi.org/forums/)
-- 💬 [Node-RED Community](https://discourse.nodered.org/)
-- 💬 [MQTT Community Resources](https://mqtt.org/community/)
+- [Arduino Community Forum](https://forum.arduino.cc/)
+- [Raspberry Pi Foundation Forum](https://www.raspberrypi.org/forums/)
+- [Node-RED Community](https://discourse.nodered.org/)
+- [MQTT Community Resources](https://mqtt.org/community/)
 
 ## Contact & Support
 
 **Course Information:**
-- 👨‍🏫 **Instructor:** Dr. Abdenour SEHAD
-- 📧 **Email:** a_sehad@esi.dz
-- 🌐 **Website:** [www.abdenoursehad.com](https://www.abdenoursehad.com)
-- 🏫 **Institution:** ESI (École Supérieure d'Informatique), Algeria
+- **Instructor:** Dr. Abdenour SEHAD
+- **Email:** a_sehad@esi.dz
+- **Website:** [www.abdenoursehad.com](https://www.abdenoursehad.com)
+- **Institution:** ESI (École Supérieure d'Informatique), Algeria
 
 
 ---
 
-**🚀 Building the future of intelligent connected systems through hands-on innovation and collaborative learning.**
+**Building the future of intelligent connected systems through hands-on innovation and collaborative learning.**
 
 *This comprehensive laboratory series represents a complete educational journey through modern IoT development, from fundamental microcontroller programming to advanced distributed systems. Each lab progressively builds knowledge while introducing cutting-edge technologies essential for today's connected world.*
 
-**✨ Key Achievements:**
-- 📊 **10+ Complete Lab Exercises** with professional documentation
-- 🔧 **Multi-platform Development** across Arduino, Raspberry Pi, and cloud services
-- 🌐 **Industry-standard Protocols** including MQTT, I2C, and wireless communication
-- 📱 **Real-world Applications** from smart lighting to industrial automation
-- 🎯 **Hands-on Learning** with immediate practical implementation
+**Key Achievements:**
+- **10+ Complete Lab Exercises** with professional documentation
+- **Multi-platform Development** across Arduino, Raspberry Pi, and cloud services
+- **Industry-standard Protocols** including MQTT, I2C, and wireless communication
+- **Real-world Applications** from smart lighting to industrial automation
+- **Hands-on Learning** with immediate practical implementation
